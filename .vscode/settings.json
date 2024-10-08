@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "iterator": "cpp",
+        "memory": "cpp",
+        "xutility": "cpp",
+        "vector": "cpp",
+        "iostream": "cpp",
+        "limits": "cpp",
+        "utility": "cpp",
+        "xhash": "cpp",
+        "xmemory": "cpp",
+        "xiosbase": "cpp"
+    }
+}
